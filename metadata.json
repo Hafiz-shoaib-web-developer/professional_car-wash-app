@@ -1,0 +1,7 @@
+{
+  "name": "AUTO SHINE - Premium Car Wash & Auto Detailing",
+  "description": "Professional car washing, interior cleaning, ceramic coating, and precision auto detailing services with instant online booking.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
